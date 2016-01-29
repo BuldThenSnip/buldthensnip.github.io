@@ -1,17 +1,7 @@
-name: "Buld Then Snip, LLC"
-title: "Buld Then Snip"
 markdown: redcarpet
-highlighter: pygments
-permalink: /:title/
 
 url: http://buldthensnip.com
 
 google_analytics: UA-36064433-3
 
 simpleform_token: 9591ccf3f502d2614bd9ee43c27c3676
-
-navigation:
-- text: Home
-  url: /
-- text: Contact
-  url: /contact/
